@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fuelora - Fuel Delivery Service
 
 Fuelora is a modern web application that provides on-demand fuel delivery services. Users can order fuel online and get it delivered to their doorstep within minutes.
@@ -50,3 +51,7 @@ git clone https://github.com/Praveen-Posa-S/fuelora.git
 
 Praveen Posa - [@Praveen-Posa-S](https://github.com/Praveen-Posa-S)
 Project Link: https://github.com/Praveen-Posa-S/fuelora 
+=======
+# Fuelora-Smart-Fuel-Delivery-Website
+It's a fuel delivery website
+>>>>>>> bc4790df8aaf9461453892f5dbff737e1f878c30
