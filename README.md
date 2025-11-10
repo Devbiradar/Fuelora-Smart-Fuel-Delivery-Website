@@ -48,8 +48,8 @@ git clone https://github.com/Praveen-Posa-S/fuelora.git
 
 ## Contact
 
-Praveen Posa - [@Praveen-Posa-S](https://github.com/Praveen-Posa-S)
-Project Link: https://github.com/Praveen-Posa-S/fuelora 
+Praveen Posa - [@Devanagouda](https://github.com/Devbiradar)
+Project Link:https://github.com/Devbiradar/Fuelora-Smart-Fuel-Delivery-Website 
 =======
 # Fuelora-Smart-Fuel-Delivery-Website
 It's a fuel delivery website
