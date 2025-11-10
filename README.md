@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Fuelora - Fuel Delivery Service
+ Fuelora - Fuel Delivery Service
 
 Fuelora is a modern web application that provides on-demand fuel delivery services. Users can order fuel online and get it delivered to their doorstep within minutes.
 
