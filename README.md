@@ -53,4 +53,4 @@ Project Link:https://github.com/Devbiradar/Fuelora-Smart-Fuel-Delivery-Website
 =======
 # Fuelora-Smart-Fuel-Delivery-Website
 It's a fuel delivery website
->>>>>>> bc4790df8aaf9461453892f5dbff737e1f878c30
+
