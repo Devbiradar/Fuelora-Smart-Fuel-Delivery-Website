@@ -48,7 +48,7 @@ git clone https://github.com/Praveen-Posa-S/fuelora.git
 
 ## Contact
 
-Praveen Posa - [@Devanagouda](https://github.com/Devbiradar)
+Devanagouda - [@Devanagouda](https://github.com/Devbiradar)
 Project Link:https://github.com/Devbiradar/Fuelora-Smart-Fuel-Delivery-Website 
 =======
 # Fuelora-Smart-Fuel-Delivery-Website
